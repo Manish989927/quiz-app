@@ -132,3 +132,4 @@ const WordQuiz = () => {
 };
 
 export default WordQuiz;
+//updated code
