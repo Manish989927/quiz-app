@@ -12,7 +12,6 @@ const WordQuiz = () => {
   const [selectedOption, setSelectedOption] = useState(null);
   const [isCorrect, setIsCorrect] = useState(null);
 
-  // Select random 20 words only once
   useEffect(() => {
     const selectRandomWords = () => {
       const wordSet = new Set();
@@ -26,7 +25,6 @@ const WordQuiz = () => {
     selectRandomWords();
   }, []);
 
-  // Load new word options when the word index changes
   useEffect(() => {
     if (currentWords.length === 0 || quizCompleted) return;
 
@@ -51,7 +49,7 @@ const WordQuiz = () => {
   }, [currentWords, currentWordIndex, quizCompleted]);
 
   const handleOptionClick = useCallback((option) => {
-    if (selectedOption) return; // Prevent re-selection
+    if (selectedOption) return;
 
     setSelectedOption(option);
     const correctDefinition = currentWords[currentWordIndex].Defination;
@@ -72,7 +70,7 @@ const WordQuiz = () => {
       }
       setSelectedOption(null);
       setIsCorrect(null);
-    }, 200); // Reduced delay for faster interaction
+    }, 200);
   }, [selectedOption, currentWordIndex, currentWords]);
 
   const handlePrevClick = useCallback(() => {
@@ -88,10 +86,10 @@ const WordQuiz = () => {
   }, [currentWordIndex, currentWords.length]);
 
   return (
-    <div className="bg-white p-10 rounded-lg shadow-lg text-center w-full max-w-md">
-      <h1 className="text-3xl font-bold mb-6">Word Quiz</h1>
+    <div className="bg-white p-4 sm:p-6 md:p-10 rounded-lg shadow-lg text-center w-full max-w-md mx-auto">
+      <h1 className="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6">Word Quiz</h1>
       {quizCompleted ? (
-        <div className="text-xl font-semibold text-green-600">
+        <div className="text-lg sm:text-xl font-semibold text-green-600">
           Quiz Completed! Your final score is: {score}
         </div>
       ) : (
@@ -105,11 +103,11 @@ const WordQuiz = () => {
               correctOption={currentWords[currentWordIndex]?.Defination}
               isCorrect={isCorrect}
             />
-            <div className="mt-4 flex justify-between">
+            <div className="mt-4 flex justify-between flex-col sm:flex-row">
               <button
                 type="button"
                 onClick={handlePrevClick}
-                className="bg-blue-500 text-white px-4 py-2 rounded disabled:opacity-50"
+                className="bg-blue-500 text-white px-4 py-2 rounded disabled:opacity-50 mb-2 sm:mb-0"
                 disabled={currentWordIndex === 0}
               >
                 Prev
@@ -123,7 +121,7 @@ const WordQuiz = () => {
                 Next
               </button>
             </div>
-            <p className="mt-6 text-lg text-gray-700">Score: {score}</p>
+            <p className="mt-4 text-lg sm:text-xl text-gray-700">Score: {score}</p>
           </>
         )
       )}
@@ -132,4 +130,3 @@ const WordQuiz = () => {
 };
 
 export default WordQuiz;
-//updated code
