@@ -1895,2674 +1895,2407 @@ const wordsData = [
     Defination:
       "long thick piece of wood or metal or concrete, etc., used in construction ",
   },
+
   {
-    Id: "401",
+    Id: 401,
     Meaning: "Beast",
     Defination:
       "a large/dangerous animal// a person who is cruel and whose behaviour is uncontrolled ",
   },
   {
-    Id: "402",
+    Id: 402,
     Meaning: "Beautician",
     Defination: "someone who works in a beauty parlor ",
   },
+  { Id: 403, Meaning: "Beget", Defination: "make children  " },
   {
-    Id: "403",
-    Meaning: "Beget",
-    Defination: "make children  ",
-  },
-  {
-    Id: "404",
+    Id: 404,
     Meaning: "Beguile",
     Defination:
       "to trick somebody into doing something, by being nice to them ",
   },
   {
-    Id: "405",
+    Id: 405,
     Meaning: "Bellicose",
     Defination: "a person who is fond of fighting",
   },
   {
-    Id: "406",
+    Id: 406,
     Meaning: "Belligerent",
     Defination: "(person nation) waging war",
   },
   {
-    Id: "407",
+    Id: 407,
     Meaning: "Bemuse",
     Defination: "cause to b e confused emotionally ",
   },
   {
-    Id: "408",
+    Id: 408,
     Meaning: "Benefactor",
     Defination:
       "a person who gives money/other help to a person or an organisation (school, charity) ",
   },
   {
-    Id: "409",
+    Id: 409,
     Meaning: "Beneficiary",
     Defination: "a person who gains as a results of something ",
   },
   {
-    Id: "410",
+    Id: 410,
     Meaning: "Benevolence",
     Defination: "an inclination to do kind or charitable acts",
   },
   {
-    Id: "411",
+    Id: 411,
     Meaning: "Benign",
     Defination: "kind and gentle mild (climate) ",
   },
   {
-    Id: "412",
+    Id: 412,
     Meaning: "Bequeath",
     Defination: "leave or give by will after one's death E",
   },
   {
-    Id: "413",
+    Id: 413,
     Meaning: "Bereavement",
     Defination: "state of sorrow over the death or departure of a loved one ",
   },
   {
-    Id: "414",
+    Id: 414,
     Meaning: "Bereft",
     Defination: "deprived of or lacking of something ",
   },
+  { Id: 415, Meaning: "Bestow", Defination: "give as a gift " },
+  { Id: 416, Meaning: "Betwixt", Defination: "in the interval " },
   {
-    Id: "415",
-    Meaning: "Bestow",
-    Defination: "give as a gift ",
-  },
-  {
-    Id: "416",
-    Meaning: "Betwixt",
-    Defination: "in the interval ",
-  },
-  {
-    Id: "417",
+    Id: 417,
     Meaning: "Beverage",
     Defination: "any soft drink except water ",
   },
   {
-    Id: "418",
+    Id: 418,
     Meaning: "Bevy",
     Defination:
       "a large group of people/things of the same k ind girls/young women",
   },
   {
-    Id: "419",
+    Id: 419,
     Meaning: "Bias",
     Defination: "slanting diagonally across the grain of a fabric ",
   },
   {
-    Id: "420",
+    Id: 420,
     Meaning: "Biblicist",
     Defination: "one w ho interprets the bible literally.",
   },
   {
-    Id: "421",
+    Id: 421,
     Meaning: "Bibliomania",
     Defination: "preoccupation with the acquisition and possession of books",
   },
   {
-    Id: "422",
+    Id: 422,
     Meaning: "Bibliographer",
     Defination:
       "someone trained in compiling books/articles  about a particular subject ",
   },
   {
-    Id: "423",
+    Id: 423,
     Meaning: "Bibliography",
     Defination:
       "a list of books or articles about a particular subject or by a particular author",
   },
   {
-    Id: "424",
+    Id: 424,
     Meaning: "Bibliomaniac",
     Defination: "excessive fondness for acquiring and possessing books",
   },
   {
-    Id: "425",
+    Id: 425,
     Meaning: "Bibliophile",
     Defination: "a person who loves or collects books",
   },
+  { Id: 426, Meaning: "Bicentennial", Defination: "200th anniversary. " },
   {
-    Id: "426",
-    Meaning: "Bicentennial",
-    Defination: "200th anniversary. ",
-  },
-  {
-    Id: "427",
+    Id: 427,
     Meaning: "Biennial",
     Defination: "happening every second year",
   },
   {
-    Id: "428",
+    Id: 428,
     Meaning: "Bigamist",
     Defination:
       "a person who commits the crime of marrying somebody when you are still legally married to some body else",
   },
   {
-    Id: "429",
+    Id: 429,
     Meaning: "Bigamy",
     Defination:
       "the crime of marrying somebody when you are still legally married to somebody else",
   },
   {
-    Id: "430",
+    Id: 430,
     Meaning: "Bigot",
     Defination:
       "a person who has  very strong, unreasonable beliefs or opinions  about race, religion/politics  and who wil l  not listen to/accept the opinions of anyone who disagrees ",
   },
   {
-    Id: "431",
+    Id: 431,
     Meaning: "Bilingual",
     Defination:
       "able to speak two languages equally well // written in two languagesn",
   },
   {
-    Id: "432",
+    Id: 432,
     Meaning: "Bilingualist",
     Defination: "a person who speaks more than one language ",
   },
   {
-    Id: "433",
+    Id: 433,
     Meaning: "Biloquist",
     Defination: "person hav ing the ability to speak in two different voices ",
   },
   {
-    Id: "434",
+    Id: 434,
     Meaning: "Bimillennial",
     Defination: "2,000th anniversary of an event",
   },
   {
-    Id: "435",
+    Id: 435,
     Meaning: "Binomial",
     Defination: " consisting of tw o nam es or terms ",
   },
   {
-    Id: "436",
+    Id: 436,
     Meaning: "Biodegradable",
     Defination:
       "capable  of being decomposed by biological agents, especially bacteria",
   },
   {
-    Id: "437",
+    Id: 437,
     Meaning: "Biography",
     Defination: "the story of a person™s life written by somebody else ",
   },
   {
-    Id: "438",
+    Id: 438,
     Meaning: "Biological",
     Defination:
       "connected with the processes that take place within living things",
   },
   {
-    Id: "439",
+    Id: 439,
     Meaning: "Biologist",
     Defination: "(biology) a scientist who studies living organisms",
   },
   {
-    Id: "440",
+    Id: 440,
     Meaning: "Biology",
     Defination:
       "the scientific study of the life and structure of plants and animals",
   },
   {
-    Id: "441",
+    Id: 441,
     Meaning: "Biopsy",
     Defination:
       "the removal of tissue from the body of somebody who is ill and its examination in order to find out more about the disease",
   },
+  { Id: 442, Meaning: "Biped", Defination: "using two legs to walk." },
   {
-    Id: "442",
-    Meaning: "Biped",
-    Defination: "using two legs to walk.",
-  },
-  {
-    Id: "443",
+    Id: 443,
     Meaning: "Bisque",
     Defination: "a thick soup, especially made from shellfish",
   },
+  { Id: 444, Meaning: "Bizarre", Defination: "very strange or unusual" },
   {
-    Id: "444",
-    Meaning: "Bizarre",
-    Defination: "very strange or unusual",
-  },
-  {
-    Id: "445",
+    Id: 445,
     Meaning: "Blaspheme",
     Defination: "speak of in an irreverent or impious manner ",
   },
   {
-    Id: "446",
+    Id: 446,
     Meaning: "Blasphemy",
     Defination:
       "behaviour/language that insults/shows a lack of respect for g od/ religion",
   },
   {
-    Id: "447",
+    Id: 447,
     Meaning: "Blind",
     Defination: "unable or unwilling to perceive or understand",
   },
   {
-    Id: "448",
+    Id: 448,
     Meaning: "Blite",
     Defination: "a widespread annual weed having leaves with a frost  ",
   },
   {
-    Id: "449",
+    Id: 449,
     Meaning: "Blithe",
     Defination: "cheerful casual carefree 2 ",
   },
   {
-    Id: "450",
+    Id: 450,
     Meaning: "Blizzard",
     Defination: "a snowstorm with very strong winds",
   },
+  { Id: 451, Meaning: "Blockhead", Defination: "a very stupid person" },
   {
-    Id: "451",
-    Meaning: "Blockhead",
-    Defination: "a very stupid person",
-  },
-  {
-    Id: "452",
+    Id: 452,
     Meaning: "Blonde",
     Defination: "(of hair) pale gold in colo ur  ",
   },
   {
-    Id: "453",
+    Id: 453,
     Meaning: "Blooper",
     Defination: "an embarrassing mistake  ",
   },
   {
-    Id: "454",
+    Id: 454,
     Meaning: "Blunder",
     Defination: "an embarrassing mistake / make a serious mistake × ",
   },
   {
-    Id: "455",
+    Id: 455,
     Meaning: "Blurb",
     Defination: "a shor t de scription of a book, a new product, etc. j ",
   },
   {
-    Id: "456",
+    Id: 456,
     Meaning: "Bluster",
     Defination:
       "to talk in an aggressive/threatening way, but with little effect  ",
   },
   {
-    Id: "457",
+    Id: 457,
     Meaning: "Board",
     Defination: "a flat piece of material designed for a special purpose 2 ",
   },
   {
-    Id: "458",
+    Id: 458,
     Meaning: "Boer",
     Defination:
       "a white native of cape  province who is a descendant of Dutch settlers and who speaks Afrikaans  ",
   },
   {
-    Id: "459",
+    Id: 459,
     Meaning: "Boggle",
     Defination: "to hesitate as if in fear or doubt 2/ ",
   },
   {
-    Id: "460",
+    Id: 460,
     Meaning: "Bogus",
     Defination: "sham count erfeit not genuine  ",
   },
   {
-    Id: "461",
+    Id: 461,
     Meaning: "Bohemian",
     Defination:
       "a person who is involved with the  ar ts, who lives in a very informal way without following accepted rules of behaviour þ",
   },
   {
-    Id: "462",
+    Id: 462,
     Meaning: "Bolster",
     Defination: "give greatly needed support gE ",
   },
   {
-    Id: "463",
+    Id: 463,
     Meaning: "Bond",
     Defination:
       "a legal agreement by which a bank lends you money to buy a house, etc. which you pay back over many years 2 ",
   },
   {
-    Id: "464",
+    Id: 464,
     Meaning: "Bonus",
     Defination:
       "a sum of money added to a person™s wages as a reward for good performance.  ",
   },
+  { Id: 465, Meaning: "Bookworm", Defination: "an avid book reader  " },
   {
-    Id: "465",
-    Meaning: "Bookworm",
-    Defination: "an avid book reader  ",
-  },
-  {
-    Id: "466",
+    Id: 466,
     Meaning: "Bore",
     Defination:
       "a deep hole made in the groun d, especially to find water or oil /  ",
   },
   {
-    Id: "467",
+    Id: 467,
     Meaning: "Borrower",
     Defination: "a person/ organisation that borrows money from a bank // ",
   },
   {
-    Id: "468",
+    Id: 468,
     Meaning: "Bossy",
     Defination: "alway s telling people what to do / / ",
   },
   {
-    Id: "469",
+    Id: 469,
     Meaning: "Botanist",
     Defination: "a scientist who studies about plants and their structure -Ó ",
   },
+  { Id: 470, Meaning: "Botanophobia", Defination: "a fear of plants / " },
+  { Id: 471, Meaning: "Botany", Defination: "the study of plant life  " },
   {
-    Id: "470",
-    Meaning: "Botanophobia",
-    Defination: "a fear of plants / ",
-  },
-  {
-    Id: "471",
-    Meaning: "Botany",
-    Defination: "the study of plant life  ",
-  },
-  {
-    Id: "472",
+    Id: 472,
     Meaning: "Bottleneck",
     Defination:
       "a narrow or busy section of road where the traffic often gets slower and stops /2 ",
   },
   {
-    Id: "473",
+    Id: 473,
     Meaning: "Boudoir",
     Defination: "a woman™s small private room or bedroom 0 0/ ",
   },
   {
-    Id: "474",
+    Id: 474,
     Meaning: "Boulevard",
     Defination: "a wide city street , often with trees  on either side   ",
   },
   {
-    Id: "475",
+    Id: 475,
     Meaning: "Bouquet",
     Defination:
       "a bunch of  flowers arranged in an attractive way so that it ca n be carried in a ceremony /presented as a  gift ",
   },
   {
-    Id: "476",
+    Id: 476,
     Meaning: "Bourgeois",
     Defination: "belonging to mi ddle class. ×2Ó ",
   },
   {
-    Id: "477",
+    Id: 477,
     Meaning: "Boutique",
     Defination: "a shop that sells women's clothes and jewelry 1Ñ2/˜ ×//G ",
   },
   {
-    Id: "478",
+    Id: 478,
     Meaning: "Bovial",
     Defination: "of or pertaining to cattle /2 ",
   },
+  { Id: 479, Meaning: "Bovine", Defination: "connected with cows " },
   {
-    Id: "479",
-    Meaning: "Bovine",
-    Defination: "connected with cows ",
-  },
-  {
-    Id: "480",
+    Id: 480,
     Meaning: "Bower",
     Defination: "a shady place under trees 2 ",
   },
+  { Id: 481, Meaning: "Brazen", Defination: "made of brass 2/ " },
   {
-    Id: "481",
-    Meaning: "Brazen",
-    Defination: "made of brass 2/ ",
-  },
-  {
-    Id: "482",
+    Id: 482,
     Meaning: "Brazier",
     Defination:
       "a large metal container that holds a fire and is used to keep people warm when they are outside 2 ",
   },
   {
-    Id: "483",
+    Id: 483,
     Meaning: "Breach",
     Defination: "a failure to do something that must be done by law 2 ",
   },
   {
-    Id: "484",
+    Id: 484,
     Meaning: "Breather",
     Defination:
       "air passage provided by a retractable device containing  intake and exhaust pipes  ",
   },
+  { Id: 485, Meaning: "Breeze", Defination: "a light mind  " },
   {
-    Id: "485",
-    Meaning: "Breeze",
-    Defination: "a light mind  ",
-  },
-  {
-    Id: "486",
+    Id: 486,
     Meaning: "Brewery",
     Defination: "a fact ory where beer is made",
   },
   {
-    Id: "487",
+    Id: 487,
     Meaning: "Bridle",
     Defination: "the act of restraining power or action or limiting excess",
   },
   {
-    Id: "488",
+    Id: 488,
     Meaning: "Brier",
     Defination: "any of a number of prickly scrambling shrubs",
   },
   {
-    Id: "489",
+    Id: 489,
     Meaning: "Brigand",
     Defination: "member of a band of robbers",
   },
+  { Id: 490, Meaning: "Brittle", Defination: "hard but easily broken" },
   {
-    Id: "490",
-    Meaning: "Brittle",
-    Defination: "hard but easily broken",
-  },
-  {
-    Id: "491",
+    Id: 491,
     Meaning: "Brochure",
     Defination: "a small book usually having a paper cover",
   },
   {
-    Id: "492",
+    Id: 492,
     Meaning: "Brood",
     Defination: "the young of an animal cared for at one time",
   },
   {
-    Id: "493",
+    Id: 493,
     Meaning: "Brunette",
     Defination: "a white skinned woman with dark brown hair",
   },
+  { Id: 494, Meaning: "Brutal", Defination: "violent and cruel " },
   {
-    Id: "494",
-    Meaning: "Brutal",
-    Defination: "violent and cruel ",
-  },
-  {
-    Id: "495",
+    Id: 495,
     Meaning: "Budgeting",
     Defination:
       "an itemized summary of estimated expenses for a given period along with proposals for financing them  ",
   },
   {
-    Id: "496",
+    Id: 496,
     Meaning: "Bullion",
     Defination: "gold and silver before using for manufacturing  ornaments",
   },
   {
-    Id: "497",
+    Id: 497,
     Meaning: "Bulwark",
     Defination: "a fencelike structure around a deck (usually plural)",
   },
   {
-    Id: "498",
+    Id: 498,
     Meaning: "Bungle",
     Defination: "carry out a task clumsily or incompetently",
   },
   {
-    Id: "499",
+    Id: 499,
     Meaning: "Buoy",
     Defination:
       "an anchored float serving as a navigation mark, to show reefs or other hazards, or for mooring ",
   },
   {
-    Id: "500",
+    Id: 500,
     Meaning: "BureaucracY",
     Defination:
       "a system of government in which there are a large number of state officials who are not elected ",
   },
   {
-    Id: "501",
+    Id: 501,
     Meaning: "Bureaucrat",
     Defination: "an official of a bureaucracy",
   },
   {
-    Id: "502",
+    Id: 502,
     Meaning: "Burglar",
     Defination: "a person who enters a building illegally in order to steal",
   },
   {
-    Id: "503",
+    Id: 503,
     Meaning: "Burglary",
     Defination:
       "the crime of entering building illegally and stealing things from it",
   },
   {
-    Id: "504",
+    Id: 504,
     Meaning: "Burrow",
     Defination:
       "a hole/tunnel in the ground made by animals such as rabbits, for them to live in",
   },
   {
-    Id: "505",
+    Id: 505,
     Meaning: "Bursar",
     Defination: "a person who manages the financial affairs of a college",
   },
   {
-    Id: "506",
+    Id: 506,
     Meaning: "Business",
     Defination:
       "Like work ing  in an efficient and organized way and not wasting  time or think ing  about personal things  ",
   },
   {
-    Id: "507",
+    Id: 507,
     Meaning: "Butcher",
     Defination: "a person who slaughters or dresses meat for market",
   },
   {
-    Id: "508",
+    Id: 508,
     Meaning: "Bypass",
     Defination:
       "a road that passes around a tow n/ city rather than through the centre",
   },
+  { Id: 509, Meaning: "Bypassers", Defination: "one who passes by" },
+  { Id: 510, Meaning: "Cabby", Defination: "a taxi driver" },
   {
-    Id: "509",
-    Meaning: "Bypassers",
-    Defination: "one who passes by",
-  },
-  {
-    Id: "510",
-    Meaning: "Cabby",
-    Defination: "a taxi driver",
-  },
-  {
-    Id: "511",
+    Id: 511,
     Meaning: "Cache",
     Defination: "a hidden storage space (for money or provisions or weapons)",
   },
+  { Id: 512, Meaning: "Cacography", Defination: "a poor hand writing" },
   {
-    Id: "512",
-    Meaning: "Cacography",
-    Defination: "a poor hand writing",
-  },
-  {
-    Id: "513",
+    Id: 513,
     Meaning: "Cacophony",
     Defination: "loud confusing disagreeable sounds",
   },
   {
-    Id: "514",
+    Id: 514,
     Meaning: "Cadaverous",
     Defination: "of or relating to a cadaver or corpse",
   },
   {
-    Id: "515",
+    Id: 515,
     Meaning: "Cage",
     Defination: "a house in which animals/birds are kept",
   },
   {
-    Id: "516",
+    Id: 516,
     Meaning: "Cajolement",
     Defination:
       "  making somebody do  something by talking to him and being very nice to him",
   },
   {
-    Id: "517",
+    Id: 517,
     Meaning: "Calcivorous",
     Defination: "erode / eat limestone",
   },
   {
-    Id: "518",
+    Id: 518,
     Meaning: "Calculative",
     Defination: "used for person sŒ the most calculating and s elfish men  ",
   },
   {
-    Id: "519",
+    Id: 519,
     Meaning: "Calculus",
     Defination:
       "the branch of mathematics that is concerned with limits and with the differentiation and integration of functions  ",
   },
   {
-    Id: "520",
+    Id: 520,
     Meaning: "Calibre",
     Defination: "a degree or grade of excellence or worth ",
   },
   {
-    Id: "521",
+    Id: 521,
     Meaning: "Calligrapher",
     Defination:
       "someone skilled in penmanship ( calligraphy beautiful writing done with a special pen/ brush) ",
   },
   {
-    Id: "522",
+    Id: 522,
     Meaning: "Calligraphy",
     Defination: "beautiful handwriting  that you do with a special pen/brush. ",
   },
   {
-    Id: "523",
+    Id: 523,
     Meaning: "Callous",
     Defination: "not caring about other people™s feelings or suffering ",
   },
   {
-    Id: "524",
+    Id: 524,
     Meaning: "Calmative",
     Defination: "having a sedative effect. ",
   },
+  { Id: 525, Meaning: "Calumny", Defination: "slander aspersion " },
   {
-    Id: "525",
-    Meaning: "Calumny",
-    Defination: "slander aspersion ",
-  },
-  {
-    Id: "526",
+    Id: 526,
     Meaning: "Camouflage",
     Defination:
       "The disguising of  military personnel, equipment, and installations by painting or covering them to make them blend in with their surroundings ",
   },
+  { Id: 527, Meaning: "Canicide", Defination: "the killing of a dog " },
+  { Id: 528, Meaning: "Canine", Defination: "connected with dogs " },
   {
-    Id: "527",
-    Meaning: "Canicide",
-    Defination: "the killing of a dog ",
-  },
-  {
-    Id: "528",
-    Meaning: "Canine",
-    Defination: "connected with dogs ",
-  },
-  {
-    Id: "529",
+    Id: 529,
     Meaning: "Cannery",
     Defination: "a factory where food is canned ",
   },
   {
-    Id: "530",
+    Id: 530,
     Meaning: "Cannibal",
     Defination: "a person who eats human flesh ",
   },
+  { Id: 531, Meaning: "Canophilia", Defination: "love for dogs" },
   {
-    Id: "531",
-    Meaning: "Canophilia",
-    Defination: "love for dogs",
-  },
-  {
-    Id: "532",
+    Id: 532,
     Meaning: "Capable",
     Defination: "(usually followed by 'of') having capacity or ability  ",
   },
   {
-    Id: "533",
+    Id: 533,
     Meaning: "Capacity",
     Defination: "the maximum production possible   ",
   },
   {
-    Id: "534",
+    Id: 534,
     Meaning: "Capitalist",
     Defination:
       "a person who supports the fact that a  country™s businesses and industry  are controlled and run by  private owners rather than by the government ",
   },
+  { Id: 535, Meaning: "Capsize", Defination: "overturn accidentally  " },
   {
-    Id: "535",
-    Meaning: "Capsize",
-    Defination: "overturn accidentally  ",
-  },
-  {
-    Id: "536",
+    Id: 536,
     Meaning: "Captor",
     Defination:
       "a person who captures a person/ an animal and keeps him/it as a prisoner",
   },
   {
-    Id: "537",
+    Id: 537,
     Meaning: "Caravan",
     Defination: "a covered vehicle, used for living by gypsies",
   },
   {
-    Id: "538",
+    Id: 538,
     Meaning: "Carcass",
     Defination: "The dead body  of an animal",
   },
   {
-    Id: "539",
+    Id: 539,
     Meaning: "Cardiologist",
     Defination:
       "A doctor who specializes in the study or treatment of  heart diseases ",
   },
   {
-    Id: "540",
+    Id: 540,
     Meaning: "Cardiology",
     Defination: "the study and treatment of heart diseases ",
   },
   {
-    Id: "541",
+    Id: 541,
     Meaning: "Carefree",
     Defination: "having no worries/reponsibilities  ",
   },
   {
-    Id: "542",
+    Id: 542,
     Meaning: "Caricature",
     Defination:
       "a funny drawing/ picture of somebody that exaggerates some of his features ",
   },
   {
-    Id: "543",
+    Id: 543,
     Meaning: "Carnivore",
     Defination: "eats the flesh of other animals (animal) ",
   },
   {
-    Id: "544",
+    Id: 544,
     Meaning: "Carnivorous",
     Defination: "animals that eat meat ",
   },
   {
-    Id: "545",
+    Id: 545,
     Meaning: "Carol",
     Defination: "a Christian religious song sung  at Christmas  ",
   },
   {
-    Id: "546",
+    Id: 546,
     Meaning: "Cartographer",
     Defination: "a person who draws or makes maps ",
   },
   {
-    Id: "547",
+    Id: 547,
     Meaning: "Cartography",
     Defination: "the art or process of drawing or making maps ",
   },
   {
-    Id: "548",
+    Id: 548,
     Meaning: "Cartoon",
     Defination: "an am using drawing about politics/events in the news ",
   },
   {
-    Id: "549",
+    Id: 549,
     Meaning: "Cascade",
     Defination: "a succession of stag es or operations or processes or units  ",
   },
+  { Id: 550, Meaning: "Castigation", Defination: "severe punishment" },
   {
-    Id: "550",
-    Meaning: "Castigation",
-    Defination: "severe punishment",
-  },
-  {
-    Id: "551",
+    Id: 551,
     Meaning: "Catalogue",
     Defination:
       "a complete list of items, for example, of things that people can look at/buy",
   },
   {
-    Id: "552",
+    Id: 552,
     Meaning: "Catastrophe",
     Defination: "a sudden violent change in the earth's surface  ",
   },
   {
-    Id: "553",
+    Id: 553,
     Meaning: "Catharsis",
     Defination: "(psychoanalysis) purging of emotional tensions",
   },
   {
-    Id: "554",
+    Id: 554,
     Meaning: "Cathedral",
     Defination:
       "the main church of a district, under the care of a bishop (a priest of hig h rank )  ",
   },
+  { Id: 555, Meaning: "Caustic", Defination: "biting sarcastic " },
   {
-    Id: "555",
-    Meaning: "Caustic",
-    Defination: "biting sarcastic ",
-  },
-  {
-    Id: "556",
+    Id: 556,
     Meaning: "Cavalier",
     Defination:
       "a courtly gentle man, especially one acting as a lady™s escort",
   },
   {
-    Id: "557",
+    Id: 557,
     Meaning: "Cavalry",
     Defination:
       "the part of the army that fought on horses (in the past) // the part of the modern army that uses armoured vehicles ",
   },
   {
-    Id: "558",
+    Id: 558,
     Meaning: "Cave",
     Defination: "a large hole in the side of a hill/ under the ground  ",
   },
   {
-    Id: "559",
+    Id: 559,
     Meaning: "Ceasefire",
     Defination: "a time when enemies agree to stop fighting ",
   },
   {
-    Id: "560",
+    Id: 560,
     Meaning: "Cede",
     Defination: "relinquish possession or control over  ",
   },
+  { Id: 561, Meaning: "Celestial", Defination: "of the sky/ heaven " },
   {
-    Id: "561",
-    Meaning: "Celestial",
-    Defination: "of the sky/ heaven ",
-  },
-  {
-    Id: "562",
+    Id: 562,
     Meaning: "Celibacy",
     Defination: "the state of living unmarried  ",
   },
   {
-    Id: "563",
+    Id: 563,
     Meaning: "Celibate",
     Defination: "a person who has chosen not to marry",
   },
   {
-    Id: "564",
+    Id: 564,
     Meaning: "Cellar",
     Defination:
       "an underground room often  used for  storing things (wine, s alt, etc.) ",
   },
   {
-    Id: "565",
+    Id: 565,
     Meaning: "Celsius",
     Defination: "using a scale of temperature in which water freezes at ",
   },
   {
-    Id: "566",
+    Id: 566,
     Meaning: "Cemetry",
     Defination:
       "an area of land used for burying dead people, especially one that is not beside a church ",
   },
   {
-    Id: "567",
+    Id: 567,
     Meaning: "Cenotaph",
     Defination:
       "a  monument built i n memory of soldiers killed in war who are buried somewhere else ",
   },
   {
-    Id: "568",
+    Id: 568,
     Meaning: "Centenarian",
     Defination: "a person who is a 100 years old or more ",
   },
   {
-    Id: "569",
+    Id: 569,
     Meaning: "Centenary",
     Defination: "the 100th anniversary of an event ",
   },
   {
-    Id: "570",
+    Id: 570,
     Meaning: "Centennial",
     Defination: "the 100th anniversary of an event  ",
   },
   {
-    Id: "571",
+    Id: 571,
     Meaning: "Centipede",
     Defination: "a small, long, thin animal with many legs ",
   },
   {
-    Id: "572",
+    Id: 572,
     Meaning: "Centrifugal",
     Defination: "anything tending to move away from center",
   },
   {
-    Id: "573",
+    Id: 573,
     Meaning: "Centripetal",
     Defination: "tending to move toward a center ",
   },
   {
-    Id: "574",
+    Id: 574,
     Meaning: "Centurion",
     Defination:
       "an army officer who commanded a 100 soldiers (in ancient Rome)",
   },
   {
-    Id: "575",
+    Id: 575,
     Meaning: "Century",
     Defination: "a period of a 100 years  ",
   },
   {
-    Id: "576",
+    Id: 576,
     Meaning: "Cereal",
     Defination:
       "made of grain or relating to grain or the plants that produce it ",
   },
   {
-    Id: "577",
+    Id: 577,
     Meaning: "Ceremony",
     Defination:
       "any activity that is performed in an especially solemn elaborate or formal way ",
   },
   {
-    Id: "578",
+    Id: 578,
     Meaning: "Cerography",
     Defination:
       "the art of engraving on a waxed plate on which a printing  surface is created by electrotyping",
   },
   {
-    Id: "579",
+    Id: 579,
     Meaning: "Certificate",
     Defination:
       "an official document that may be used for proving that the facts it states are true ",
   },
   {
-    Id: "580",
+    Id: 580,
     Meaning: "Certitude",
     Defination:
       "total certainty or greater certainty than circumstances warrant ",
   },
+  { Id: 581, Meaning: "Cessation", Defination: "a stopping " },
   {
-    Id: "581",
-    Meaning: "Cessation",
-    Defination: "a stopping ",
-  },
-  {
-    Id: "582",
+    Id: 582,
     Meaning: "Chafe",
     Defination: "rub a part of the body to restore warmth or sensation ",
   },
   {
-    Id: "583",
+    Id: 583,
     Meaning: "Chagrin",
     Defination: "vexation for humiliation of disappointment",
   },
   {
-    Id: "584",
+    Id: 584,
     Meaning: "Chairman",
     Defination: "the officer who presides at the meetings of an organization ",
   },
   {
-    Id: "585",
+    Id: 585,
     Meaning: "Chalcocite",
     Defination: "a heavy grey mineral that is an ore of copper ",
   },
   {
-    Id: "586",
+    Id: 586,
     Meaning: "Chalet",
     Defination:
       "a wooden house with a sloping roof, usually built in mountain areas, in Switzerland ",
   },
   {
-    Id: "587",
+    Id: 587,
     Meaning: "Chamois",
     Defination:
       "hoofed mammal of mountains of Eurasia having upright horns with backward  ",
   },
   {
-    Id: "588",
+    Id: 588,
     Meaning: "Chandler",
     Defination:
       "a maker (and seller) of candles and soap and oils and paints   ",
   },
   {
-    Id: "589",
+    Id: 589,
     Meaning: "Changeable",
     Defination: "such that alteration is possible ",
   },
   {
-    Id: "590",
+    Id: 590,
     Meaning: "Changeling",
     Defination:
       "a child who is believed to have been secretly left in exchange for another  ",
   },
   {
-    Id: "591",
+    Id: 591,
     Meaning: "Chaotic",
     Defination: "lacking a visible order or organization  ",
   },
   {
-    Id: "592",
+    Id: 592,
     Meaning: "Chapel",
     Defination:
       "a small building/ room used for Christian worship in a school, prison, large private house, etc.",
   },
   {
-    Id: "593",
+    Id: 593,
     Meaning: "Chaperon",
     Defination:
       "one who accompanies and supervises a young woman or gatherings of young people",
   },
   {
-    Id: "594",
+    Id: 594,
     Meaning: "Chaplain",
     Defination:
       "a priest or other Christian minister who is responsible for the religious needs of people in a prison, hospital etc. or in the armed forces  ",
   },
   {
-    Id: "595",
+    Id: 595,
     Meaning: "Charge",
     Defination: "a impetuous rush toward someone or something ",
   },
   {
-    Id: "596",
+    Id: 596,
     Meaning: "Charger",
     Defination: "a horse that a soldier rode in battle in the past  ",
   },
+  { Id: 597, Meaning: "Chariot", Defination: "a light four" },
   {
-    Id: "597",
-    Meaning: "Chariot",
-    Defination: "a light four",
-  },
-  {
-    Id: "598",
+    Id: 598,
     Meaning: "Charisma",
     Defination:
       "compelling attractiveness or charm that can inspire or influence others",
   },
   {
-    Id: "599",
+    Id: 599,
     Meaning: "Charismatic",
     Defination:
       "exercising a compelling charm which inspires devotion in others",
   },
   {
-    Id: "600",
+    Id: 600,
     Meaning: "Charlatan",
     Defination:
       "a person falsely claiming to have a special knowledge or skill",
   },
   {
-    Id: "601",
+    Id: 601,
     Meaning: "Chartered",
     Defination: "Accountant  a fully trained and qualified accountant",
   },
   {
-    Id: "602",
+    Id: 602,
     Meaning: "Chassis",
     Defination: "the base frame of car or other wheel vehicle",
   },
+  { Id: 603, Meaning: "Chaste", Defination: "pure" },
+  { Id: 604, Meaning: "Chastise", Defination: "censure severely " },
   {
-    Id: "603",
-    Meaning: "Chaste",
-    Defination: "pure",
-  },
-  {
-    Id: "604",
-    Meaning: "Chastise",
-    Defination: "censure severely ",
-  },
-  {
-    Id: "605",
+    Id: 605,
     Meaning: "Chauffeur",
     Defination:
       "a person whose job is to drive a car, especially for somebody rich/important",
   },
+  { Id: 606, Meaning: "Chauvinism", Defination: "fanatical patriotism" },
   {
-    Id: "606",
-    Meaning: "Chauvinism",
-    Defination: "fanatical patriotism",
-  },
-  {
-    Id: "607",
+    Id: 607,
     Meaning: "Chauvinist",
     Defination: "a blindly devoted patriot",
   },
   {
-    Id: "608",
+    Id: 608,
     Meaning: "Cheap",
     Defination: "relatively low in price or charging low prices",
   },
+  { Id: 609, Meaning: "Cheat", Defination: "to deceive /fool/trick" },
   {
-    Id: "609",
-    Meaning: "Cheat",
-    Defination: "to deceive /fool/trick",
-  },
-  {
-    Id: "610",
+    Id: 610,
     Meaning: "Chemotherapy",
     Defination:
       "the treatment of disease (cancer) with the use of chemical substances",
   },
+  { Id: 611, Meaning: "Chew", Defination: "to bite continuously" },
+  { Id: 612, Meaning: "Chide", Defination: "to criticize/ blame /scold" },
   {
-    Id: "611",
-    Meaning: "Chew",
-    Defination: "to bite continuously",
-  },
-  {
-    Id: "612",
-    Meaning: "Chide",
-    Defination: "to criticize/ blame /scold",
-  },
-  {
-    Id: "613",
+    Id: 613,
     Meaning: "Child",
     Defination: "a young person of either sex",
   },
   {
-    Id: "614",
+    Id: 614,
     Meaning: "Chirography",
     Defination: "another name for calligraphy",
   },
   {
-    Id: "615",
+    Id: 615,
     Meaning: "Choir",
     Defination:
       "a group of people who sing together (in church services/ public performances)",
   },
   {
-    Id: "616",
+    Id: 616,
     Meaning: "Chore",
     Defination: "aroutine task, especially a household one  ",
   },
   {
-    Id: "617",
+    Id: 617,
     Meaning: "Choreography",
     Defination: "the act of designing and arranging the steps",
   },
   {
-    Id: "618",
+    Id: 618,
     Meaning: "Chronic",
     Defination: "difficult to care or get rid of // lasting for a long",
   },
   {
-    Id: "619",
+    Id: 619,
     Meaning: "Chronicle",
     Defination: "a record or narrative description of past events",
   },
   {
-    Id: "620",
+    Id: 620,
     Meaning: "Chronological",
     Defination: "arranged in the or der in whi ch the y happened (events)",
   },
   {
-    Id: "621",
+    Id: 621,
     Meaning: "Chronometer",
     Defination:
       "an instrument for measuring time accurately in spite of motion or variations in temperature, humidity, and  air pressure.  ",
   },
   {
-    Id: "622",
+    Id: 622,
     Meaning: "Chum",
     Defination:
       "bait consisting of chopped fish and fish oils that are dumped overboard to attract fish  ",
   },
   {
-    Id: "623",
+    Id: 623,
     Meaning: "Church",
     Defination: "a place of worship of the Christians",
   },
   {
-    Id: "624",
+    Id: 624,
     Meaning: "Churlish",
     Defination: "rude in a mean-spirited and surly way",
   },
   {
-    Id: "625",
+    Id: 625,
     Meaning: "Chutzpah",
     Defination: "extreme self-confidence or audacity",
   },
+  { Id: 626, Meaning: "Cinch", Defination: "an extremely easy task.  " },
   {
-    Id: "626",
-    Meaning: "Cinch",
-    Defination: "an extremely easy task.  ",
-  },
-  {
-    Id: "627",
+    Id: 627,
     Meaning: "Circulatory",
     Defination: "relating to circulatory system or to circulation of the blood",
   },
   {
-    Id: "628",
+    Id: 628,
     Meaning: "Circumcenter",
     Defination:
       "the point at which the perpendicular bisectors of the sides of a triangle intersect and which is equidistant from the three vertices",
   },
   {
-    Id: "629",
+    Id: 629,
     Meaning: "Circumlocution",
     Defination:
       "using more words than are necessary instead of speaking or writing in a clear/direct way.",
   },
   {
-    Id: "630",
+    Id: 630,
     Meaning: "Circumscription",
     Defination: "the act of restricting  ",
   },
   {
-    Id: "631",
+    Id: 631,
     Meaning: "Circumspection",
     Defination: "knowing how to avoid distress  ",
   },
   {
-    Id: "632",
+    Id: 632,
     Meaning: "Circumstantial",
     Defination:
       "containing information and details that strongly suggest that something is true but do not prove it ",
   },
   {
-    Id: "633",
+    Id: 633,
     Meaning: "Circumvent",
     Defination:
       "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues) ",
   },
   {
-    Id: "634",
+    Id: 634,
     Meaning: "Circumvention",
     Defination: "the act of escaping by going around ",
   },
   {
-    Id: "635",
+    Id: 635,
     Meaning: "Citadel",
     Defination: "a fortress typically one on high ground above a city ",
   },
   {
-    Id: "636",
+    Id: 636,
     Meaning: "Citizen",
     Defination:
       "a person who has the legal right to belong to a particular country ",
   },
   {
-    Id: "637",
+    Id: 637,
     Meaning: "Civilization",
     Defination:
       "a society , its culture and its way of life during  a particular period of time/in a particular part of the world  ",
   },
   {
-    Id: "638",
+    Id: 638,
     Meaning: "Clamorous",
     Defination: "making a loud and confused noise",
   },
   {
-    Id: "639",
+    Id: 639,
     Meaning: "Clamour",
     Defination: "loud and persistent outcry from many people  ",
   },
   {
-    Id: "640",
+    Id: 640,
     Meaning: "Clandestine",
     Defination: "conducted with or marked by hidden aims or methods  ",
   },
+  { Id: 641, Meaning: "Clarity", Defination: "easy to understand " },
   {
-    Id: "641",
-    Meaning: "Clarity",
-    Defination: "easy to understand ",
-  },
-  {
-    Id: "642",
+    Id: 642,
     Meaning: "Claustrophobia",
     Defination: "an extreme fear of being in a small confined place ",
   },
   {
-    Id: "643",
+    Id: 643,
     Meaning: "Clavierist",
     Defination: "a musician who plays the clavier. ",
   },
   {
-    Id: "644",
+    Id: 644,
     Meaning: "Clement",
     Defination: "(used of persons or behavior) inclined to show mercy ",
   },
   {
-    Id: "645",
+    Id: 645,
     Meaning: "Clergy",
     Defination:
       "in Christianity, clergymen collectively (as distinguished from the laity) ",
   },
+  { Id: 646, Meaning: "Cleverness", Defination: "intelligence  " },
   {
-    Id: "646",
-    Meaning: "Cleverness",
-    Defination: "intelligence  ",
-  },
-  {
-    Id: "647",
+    Id: 647,
     Meaning: "Client",
     Defination:
       "a person who uses the services/ advice of a professional person/ organization ",
   },
   {
-    Id: "648",
+    Id: 648,
     Meaning: "Clientele",
     Defination: "customers collectively ",
   },
   {
-    Id: "649",
+    Id: 649,
     Meaning: "Climatology",
     Defination: "meteorol ogy of cli mat es  and their phenomena  ",
   },
   {
-    Id: "650",
+    Id: 650,
     Meaning: "Clincher",
     Defination: "a tool used to clinch nails or bolts or rivets ",
   },
   {
-    Id: "651",
+    Id: 651,
     Meaning: "Clinker",
     Defination: "a hard brick used as a  paving stone ",
   },
   {
-    Id: "652",
+    Id: 652,
     Meaning: "Clinophobia",
     Defination: "fear of beds or going to bed ",
   },
   {
-    Id: "653",
+    Id: 653,
     Meaning: "Cloakroom",
     Defination:
       "a room in a public building where people can leave coats, bags, etc. for a time ",
   },
   {
-    Id: "654",
+    Id: 654,
     Meaning: "Closure",
     Defination:
       "the situation when a factory, school, hospital, etc. shuts permanently ",
   },
   {
-    Id: "655",
+    Id: 655,
     Meaning: "Clout",
     Defination: " influence or power, especially in politics or business ",
   },
+  { Id: 656, Meaning: "Clung", Defination: "to adhere closely" },
   {
-    Id: "656",
-    Meaning: "Clung",
-    Defination: "to adhere closely",
-  },
-  {
-    Id: "657",
+    Id: 657,
     Meaning: "Coach",
     Defination: "a carriage pulled by four horses with one driver ",
   },
   {
-    Id: "658",
+    Id: 658,
     Meaning: "Coarse",
     Defination: "conspicuously and tastelessly indecent  ",
   },
   {
-    Id: "659",
+    Id: 659,
     Meaning: "Coarseness",
     Defination: "the quality of lacking taste and refinement ",
   },
   {
-    Id: "660",
+    Id: 660,
     Meaning: "Cocktail",
     Defination: " an appetizer served as a first course at a meal",
   },
   {
-    Id: "661",
+    Id: 661,
     Meaning: "Cocktail",
     Defination:
       "a drink usually made from a mixture of one or more alcoholic drinks and fruit juice",
   },
   {
-    Id: "662",
+    Id: 662,
     Meaning: "Codicil",
     Defination:
       "an instruction that is added later to a will, usually to change a part of it ",
   },
   {
-    Id: "663",
+    Id: 663,
     Meaning: "Codify",
     Defination: "organize into a code or system, such as a body of law",
   },
   {
-    Id: "664",
+    Id: 664,
     Meaning: "Coefficient",
     Defination:
       "a constant number that serves as a measure of some property or characteristic ",
   },
   {
-    Id: "665",
+    Id: 665,
     Meaning: "Coerce",
     Defination: "compel to force to make obedient ",
   },
   {
-    Id: "666",
+    Id: 666,
     Meaning: "Coercion",
     Defination:
       "the action of making  somebody  do something that he does not want to do, using force or threatening ",
   },
   {
-    Id: "667",
+    Id: 667,
     Meaning: "Coffer",
     Defination:
       "a large strong box, used in the past for storing money/ valuable objects ",
   },
   {
-    Id: "668",
+    Id: 668,
     Meaning: "Coffle",
     Defination:
       "a group of animals, prisoners, or slaves chained tog ether in a line I ",
   },
   {
-    Id: "669",
+    Id: 669,
     Meaning: "Cohere",
     Defination:
       "have internal elements  or parts logically connected so that aesthetic consistency results ",
   },
   {
-    Id: "670",
+    Id: 670,
     Meaning: "Coherence",
     Defination: "logical and orderly and consistent relation of  parts ",
   },
   {
-    Id: "671",
+    Id: 671,
     Meaning: "Coin",
     Defination:
       "Collector  a collector and student of money collects coins with the aim to complete sets of coins ",
   },
   {
-    Id: "672",
+    Id: 672,
     Meaning: "Coincidence",
     Defination:
       "a remarkable concurrence of events or circumstances without apparent causal connection",
   },
   {
-    Id: "673",
+    Id: 673,
     Meaning: "Coir",
     Defination:
       "rough material made from the shells of coconuts, used for making ropes, for covering flowers, etc. ",
   },
   {
-    Id: "675",
+    Id: 675,
     Meaning: "Colleague",
     Defination:
       "a person that one w ork with at the same place, in a profession or  a business ",
   },
   {
-    Id: "676",
+    Id: 676,
     Meaning: "Collier",
     Defination: "a ship that carries coal ",
   },
+  { Id: 677, Meaning: "Colloquy", Defination: "mutual discourse *" },
   {
-    Id: "677",
-    Meaning: "Colloquy",
-    Defination: "mutual discourse *",
-  },
-  {
-    Id: "678",
+    Id: 678,
     Meaning: "Colony",
     Defination:
       "a country or an area that is governed by people from another, more powerful country ",
   },
   {
-    Id: "679",
+    Id: 679,
     Meaning: "Colossal",
     Defination: "so great in size or force or extent as to elicit awe ",
   },
+  { Id: 680, Meaning: "Colosus", Defination: "A gigantic statue " },
   {
-    Id: "680",
-    Meaning: "Colosus",
-    Defination: "A gigantic statue ",
-  },
-  {
-    Id: "681",
+    Id: 681,
     Meaning: "Comet",
     Defination:
       "a mass of ice and dust that moves around  the sun and  looks like a bright star with a tail ",
   },
   {
-    Id: "682",
+    Id: 682,
     Meaning: "Commemorate",
     Defination:
       "to remind people of an important person/ event from the past with a special action/ object ",
   },
   {
-    Id: "683",
+    Id: 683,
     Meaning: "Commence",
     Defination: "take the first step or steps in carrying out an action",
   },
   {
-    Id: "684",
+    Id: 684,
     Meaning: "Commensurate",
     Defination: "to match something in size, importance, quality, etc. ",
   },
   {
-    Id: "685",
+    Id: 685,
     Meaning: "Commiserate",
     Defination: "to show sympathy when somebody is upset/ disappointed",
   },
   {
-    Id: "686",
+    Id: 686,
     Meaning: "Commission",
     Defination: "money given to agent on sales ",
   },
   {
-    Id: "687",
+    Id: 687,
     Meaning: "Common",
     Defination: "having no special distinction or quality ",
   },
   {
-    Id: "688",
+    Id: 688,
     Meaning: "Common",
     Defination:
       "belonging to or participated in by a community as a whole public ",
   },
   {
-    Id: "689",
+    Id: 689,
     Meaning: "Communicate",
     Defination: "to exchange information, news, ideas, etc. ",
   },
   {
-    Id: "690",
+    Id: 690,
     Meaning: "Communist",
     Defination:
       "a person who believes in or supports living together and sharing possessions and responsibilities  ",
   },
   {
-    Id: "691",
+    Id: 691,
     Meaning: "Community",
     Defination:
       "a group of people having common interests, living in the same locality and under the same government ",
   },
   {
-    Id: "692",
+    Id: 692,
     Meaning: "Companion",
     Defination: "a person who travels/ spends a lot of time with you ",
   },
   {
-    Id: "693",
+    Id: 693,
     Meaning: "Company",
     Defination: "a group of  persons firm, business enterprise",
   },
   {
-    Id: "694",
+    Id: 694,
     Meaning: "Compass",
     Defination: "an instrument for finding directions",
   },
   {
-    Id: "695",
+    Id: 695,
     Meaning: "Compassion",
     Defination: "a deep awareness of and sympathy fo r another™s suffering  ",
   },
   {
-    Id: "696",
+    Id: 696,
     Meaning: "Compatriot",
     Defination:
       "a person who was born in, as a citizen of, the same country as somebody else ",
   },
   {
-    Id: "697",
+    Id: 697,
     Meaning: "Compatriots",
     Defination: "a fellow citizen or national of a country.  ",
   },
   {
-    Id: "698",
+    Id: 698,
     Meaning: "Compere",
     Defination:
       "British term for someone who introduces television acts or cab arets etc. ",
   },
   {
-    Id: "699",
+    Id: 699,
     Meaning: "Complacent",
     Defination: "too satisfied with yourself or with a situation  ",
   },
+  { Id: 700, Meaning: "Complaisant", Defination: "trying to please " },
+  { Id: 701, Meaning: "Complex", Defination: "complicated  " },
   {
-    Id: "700",
-    Meaning: "Complaisant",
-    Defination: "trying to please ",
-  },
-  {
-    Id: "701",
-    Meaning: "Complex",
-    Defination: "complicated  ",
-  },
-  {
-    Id: "702",
+    Id: 702,
     Meaning: "Complicity",
     Defination: "the act of taking with another person in a crime",
   },
   {
-    Id: "703",
+    Id: 703,
     Meaning: "Compliment",
     Defination: "a remark (or act) expressing praise and admiration ",
   },
   {
-    Id: "704",
+    Id: 704,
     Meaning: "Complimentary",
     Defination: "conveying or resembling a compliment  ",
   },
   {
-    Id: "705",
+    Id: 705,
     Meaning: "Compositor",
     Defination: "one who sets written material into type",
   },
   {
-    Id: "706",
+    Id: 706,
     Meaning: "Compositor",
     Defination: "a person who arranges text on a page before printing ",
   },
   {
-    Id: "707",
+    Id: 707,
     Meaning: "Compromise",
     Defination: "an agreement made between two people or groups ",
   },
   {
-    Id: "708",
+    Id: 708,
     Meaning: "Compulsorily",
     Defination: "that must be done because of a law or a rule",
   },
+  { Id: 709, Meaning: "Comrades", Defination: "friends " },
   {
-    Id: "709",
-    Meaning: "Comrades",
-    Defination: "friends ",
-  },
-  {
-    Id: "710",
+    Id: 710,
     Meaning: "Conceited",
     Defination: "having  too much pride in yourself and what y ou do",
   },
   {
-    Id: "711",
+    Id: 711,
     Meaning: "Conceivable",
     Defination: "capable of being imagined or grasped mentally ",
   },
   {
-    Id: "712",
+    Id: 712,
     Meaning: "Concentration",
     Defination:
       "the ability to direct all your effort and attention on one thing ",
   },
   {
-    Id: "713",
+    Id: 713,
     Meaning: "Concentric",
     Defination: "having a common center  ",
   },
   {
-    Id: "714",
+    Id: 714,
     Meaning: "Concept",
     Defination:
       "an abstract or general idea inferred or derived from specific instances ",
   },
   {
-    Id: "715",
+    Id: 715,
     Meaning: "Concision",
     Defination:
       "terseness and economy in writing and speaking achieved by expressing a great deal in just a few words ",
   },
   {
-    Id: "716",
+    Id: 716,
     Meaning: "Concluding",
     Defination:
       " Speech  said at the end of something as a conclusion to what happened  ",
   },
   {
-    Id: "717",
+    Id: 717,
     Meaning: "Concoct",
     Defination: "invent, prepare by mixing together  ",
   },
   {
-    Id: "718",
+    Id: 718,
     Meaning: "Concubinage",
     Defination: "living together (as spouses) without being legally married ",
   },
   {
-    Id: "719",
+    Id: 719,
     Meaning: "Concubine",
     Defination: "a woman who cohabits with an important man  ",
   },
   {
-    Id: "720",
+    Id: 720,
     Meaning: "Condiment",
     Defination:
       "a preparation (a sauce or relish or spice) to enhance flavor or enjoyment ",
   },
   {
-    Id: "721",
+    Id: 721,
     Meaning: "Condominium",
     Defination:
       "an apartment building/ group of houses in which each flat/ apartment/ house is owned by a person living in it but the shared areas are owned by everyone together ",
   },
   {
-    Id: "722",
+    Id: 722,
     Meaning: "Confectioner",
     Defination: " a company or person that mak es or sells sweets or chocolate",
   },
   {
-    Id: "723",
+    Id: 723,
     Meaning: "Confederate",
     Defination: "joined by an agreement or  treaty",
   },
   {
-    Id: "724",
+    Id: 724,
     Meaning: "Confession",
     Defination:
       "a statement that a person makes admitting that he is guilty of a crime ",
   },
   {
-    Id: "725",
+    Id: 725,
     Meaning: "Confident",
     Defination:
       "feeling sure about your own ability to do  things and be successful ",
   },
   {
-    Id: "726",
+    Id: 726,
     Meaning: "Configuration",
     Defination:
       "an arrangement of the parts of something or a group of things ",
   },
   {
-    Id: "727",
+    Id: 727,
     Meaning: "Confiscate",
     Defination: "to officially take something away from somebody ",
   },
   {
-    Id: "728",
+    Id: 728,
     Meaning: "Conflagrant",
     Defination: "combustibles flammable ",
   },
   {
-    Id: "729",
+    Id: 729,
     Meaning: "Conflagration",
     Defination: " an excessive fire which destroys a lot of land/ buildings ",
   },
   {
-    Id: "730",
+    Id: 730,
     Meaning: "Confrontation",
     Defination:
       "a situation in which there is an angry disagreement between people or groups who have different opinions",
   },
   {
-    Id: "731",
+    Id: 731,
     Meaning: "Confusing",
     Defination: "a state of not being certain",
   },
+  { Id: 732, Meaning: "Congenial", Defination: "used of plants" },
   {
-    Id: "732",
-    Meaning: "Congenial",
-    Defination: "used of plants",
-  },
-  {
-    Id: "733",
+    Id: 733,
     Meaning: "Congregation",
     Defination:
       "a group of people who are gathered together in a church to worship god ",
   },
   {
-    Id: "734",
+    Id: 734,
     Meaning: "Conjecture",
     Defination:
       "an opinion or conclusion formed on the basis of incomplete information ",
   },
   {
-    Id: "735",
+    Id: 735,
     Meaning: "Conjugate",
     Defination: "of an organic compound ",
   },
   {
-    Id: "736",
+    Id: 736,
     Meaning: "Conjunctivitis",
     Defination:
       "an infectious eye disease that causes pain and swelling in part of the eye",
   },
   {
-    Id: "737",
+    Id: 737,
     Meaning: "Conjuror",
     Defination:
       "a person who performs magic tricks which seem to make things appear or disappear",
   },
   {
-    Id: "738",
+    Id: 738,
     Meaning: "Connoisseur",
     Defination:
       "an expert on matters involving the judgmental beauty, quality or skill in art, food or music",
   },
   {
-    Id: "739",
+    Id: 739,
     Meaning: "Conscience",
     Defination:
       "the fact of behaving in a way that you feel is right even though this may cause problems",
   },
   {
-    Id: "740",
+    Id: 740,
     Meaning: "Conscientious",
     Defination: "guided by one's sense of duty ",
   },
   {
-    Id: "741",
+    Id: 741,
     Meaning: "Conscious",
     Defination:
       "(followed by `of') showing realization or  recognition of something ",
   },
   {
-    Id: "742",
+    Id: 742,
     Meaning: "Consciousness",
     Defination:
       "the state of be ing able to use your senses and mental powers to understand  what is happening ",
   },
   {
-    Id: "743",
+    Id: 743,
     Meaning: "Conservative",
     Defination:
       "holding to traditional attitudes and values and cautious about change or innovation // a person who is opposed to great/sudden social change ",
   },
   {
-    Id: "744",
+    Id: 744,
     Meaning: "Conservatory",
     Defination:
       " a room with glass walls and a glass roof that is built on the side of a house ",
   },
   {
-    Id: "745",
+    Id: 745,
     Meaning: "Console",
     Defination: "comfort someone at a time of grief or disappointment",
   },
+  { Id: 746, Meaning: "Consolidate", Defination: "unite into one" },
   {
-    Id: "746",
-    Meaning: "Consolidate",
-    Defination: "unite into one",
-  },
-  {
-    Id: "747",
+    Id: 747,
     Meaning: "Conspicuous",
     Defination: "Clearly visible // likely  to attract attention",
   },
   {
-    Id: "748",
+    Id: 748,
     Meaning: "Constellation",
     Defination:
       "a group of stars that forms a shape in the sky and has a name  ",
   },
   {
-    Id: "749",
+    Id: 749,
     Meaning: "Consternation",
     Defination: "worried, sad feeling after you have received ",
   },
   {
-    Id: "750",
+    Id: 750,
     Meaning: "Constipated",
     Defination: "unable to get rid of waste material from the bowels easily  ",
   },
   {
-    Id: "751",
+    Id: 751,
     Meaning: "Constrained",
     Defination: "Appearing forced or overly controlled ",
   },
   {
-    Id: "752",
+    Id: 752,
     Meaning: "Constriction",
     Defination: "a narrowing that reduces the  flow through a channel ",
   },
   {
-    Id: "753",
+    Id: 753,
     Meaning: "Construed",
     Defination:
       "to understand the meaning of a word, a sentence or an action in a particular way  ",
   },
+  { Id: 754, Meaning: "Consummate", Defination: " extremely skilled  " },
   {
-    Id: "754",
-    Meaning: "Consummate",
-    Defination: " extremely skilled  ",
-  },
-  {
-    Id: "755",
+    Id: 755,
     Meaning: "Contagious",
     Defination: "easily spread from one person to another (disease)  ",
   },
   {
-    Id: "756",
+    Id: 756,
     Meaning: "Cont",
     Defination:
       "aminat ed something made impure by exposure to polluting substances ",
   },
   {
-    Id: "757",
+    Id: 757,
     Meaning: "Contemplate",
     Defination: "consider as a possibility ",
   },
   {
-    Id: "758",
+    Id: 758,
     Meaning: "Contemporaries",
     Defination: "  belonging to the same time",
   },
   {
-    Id: "759",
+    Id: 759,
     Meaning: "Contemporary",
     Defination: "belonging to the same time  ",
   },
   {
-    Id: "760",
+    Id: 760,
     Meaning: "Contempt",
     Defination:
       "the feeling that somebody/ something is without value and deserves no respect at all  ",
   },
   {
-    Id: "761",
+    Id: 761,
     Meaning: "Contender",
     Defination: "the contestant you hope to defeat  ",
   },
   {
-    Id: "762",
+    Id: 762,
     Meaning: "Contented",
     Defination: "someone who is satisfied with life is general ",
   },
   {
-    Id: "763",
+    Id: 763,
     Meaning: "Contingency",
     Defination: "an event that may/may not happen  ",
   },
   {
-    Id: "764",
+    Id: 764,
     Meaning: "Continuum",
     Defination:
       "a series of similar items in which each is almost the same as the ones next to it but the last is very different from the first  ",
   },
   {
-    Id: "765",
+    Id: 765,
     Meaning: "Contraband",
     Defination: "goods that are illegally taken into or out of a country  ",
   },
   {
-    Id: "766",
+    Id: 766,
     Meaning: "Contract",
     Defination: "an official written agreement ",
   },
   {
-    Id: "767",
+    Id: 767,
     Meaning: "Cont",
     Defination: "raction  the process of becoming smaller",
   },
   {
-    Id: "768",
+    Id: 768,
     Meaning: "Co",
     Defination: "ntrary resistant to guidance or discipline",
   },
   {
-    Id: "769",
+    Id: 769,
     Meaning: "Contributory",
     Defination: "tending to bring about ",
   },
   {
-    Id: "770",
+    Id: 770,
     Meaning: "Controversy",
     Defination: "a dispute where there is strong  disagreement ",
   },
   {
-    Id: "771",
+    Id: 771,
     Meaning: "Convalescent",
     Defination: "a man who is recovering from illness. ",
   },
   {
-    Id: "772",
+    Id: 772,
     Meaning: "Convent",
     Defination: "a place where nuns li ve and work  ",
   },
   {
-    Id: "773",
+    Id: 773,
     Meaning: "Convention",
     Defination:
       "the way in which something is done that most people in a society  expect and consider to be  polite /the right way to do it ",
   },
   {
-    Id: "774",
+    Id: 774,
     Meaning: "Conventionalist",
     Defination: "advocacy of or conformity to that which is established",
   },
   {
-    Id: "775",
+    Id: 775,
     Meaning: "Convergence",
     Defination: "the act of converging (coming closer)  ",
   },
   {
-    Id: "776",
+    Id: 776,
     Meaning: "Conversant",
     Defination: "knowing about something  ",
   },
   {
-    Id: "777",
+    Id: 777,
     Meaning: "Conviction",
     Defination: "the act of finding somebody guilty of a crime in court",
   },
   {
-    Id: "778",
+    Id: 778,
     Meaning: "Convivial",
     Defination: "occupied with or fond of the pleasures of good company  ",
   },
+  { Id: 779, Meaning: "Copse", Defination: "a dense growth of bushes " },
   {
-    Id: "779",
-    Meaning: "Copse",
-    Defination: "a dense growth of bushes ",
-  },
-  {
-    Id: "780",
+    Id: 780,
     Meaning: "Copy",
     Defination:
       "a thing that is made to be the same as something else (a document or a work of art) ",
   },
   {
-    Id: "781",
+    Id: 781,
     Meaning: "Copyright",
     Defination:
       "the legal right granted to an author, composer, playwright, publisher, or distributor to exclusive publication, production, sale/distribution of a literary, musical, dramatic, or artistic work ",
   },
   {
-    Id: "782",
+    Id: 782,
     Meaning: "Coquette",
     Defination: "a seductive woman who uses her  sex appeal to exploit men",
   },
+  { Id: 783, Meaning: "Cordial", Defination: "warm and sincere" },
   {
-    Id: "783",
-    Meaning: "Cordial",
-    Defination: "warm and sincere",
-  },
-  {
-    Id: "784",
+    Id: 784,
     Meaning: "Coronation",
     Defination: "ceremony of crowning a king  ",
   },
+  { Id: 785, Meaning: "Corporal", Defination: "a petty officer." },
   {
-    Id: "785",
-    Meaning: "Corporal",
-    Defination: "a petty officer.",
-  },
-  {
-    Id: "786",
+    Id: 786,
     Meaning: "Corporate",
     Defination: "organized and maintained as a legal corporation ",
   },
+  { Id: 787, Meaning: "Corpse", Defination: "a dead body  (human)  " },
   {
-    Id: "787",
-    Meaning: "Corpse",
-    Defination: "a dead body  (human)  ",
-  },
-  {
-    Id: "788",
+    Id: 788,
     Meaning: "Corpsing",
     Defination:
       "spoil a piece of acting by forgetting one™s lines/ laughing uncontrollably ",
   },
   {
-    Id: "789",
+    Id: 789,
     Meaning: "Corrigendum",
     Defination: "a printer™s error to be corrected  ",
   },
   {
-    Id: "790",
+    Id: 790,
     Meaning: "Corroborate",
     Defination: "  to provide evidence/ information that supports a statement ",
   },
   {
-    Id: "791",
+    Id: 791,
     Meaning: "Corruption",
     Defination: "dishonest/ illegal behaviour (of people  in  authority)   ",
   },
   {
-    Id: "792",
+    Id: 792,
     Meaning: "Cortege",
     Defination: "a line of cars/people moving along slowly at a funeral ",
   },
   {
-    Id: "793",
+    Id: 793,
     Meaning: "Cosmesis",
     Defination: "the preservation, restoration or bestowing of bodily beauty  ",
   },
   {
-    Id: "794",
+    Id: 794,
     Meaning: "Cosmetician",
     Defination:
       "  one whose occupation is manufacturing , selling or applying cosmetics.  ",
   },
   {
-    Id: "795",
+    Id: 795,
     Meaning: "Cosmocrat",
     Defination: "ruler/leader of the whole world ",
   },
   {
-    Id: "796",
+    Id: 796,
     Meaning: "Cosmography",
     Defination: "science of the  constitution of the whole universe ",
   },
   {
-    Id: "797",
+    Id: 797,
     Meaning: "Cosmopolitan",
     Defination:
       "a person who has the experience of many different parts of the world  ",
   },
   {
-    Id: "798",
+    Id: 798,
     Meaning: "Coterie",
     Defination:
       "a small group of people who have the same interests and do things together b ut do not like to include others ",
   },
   {
-    Id: "799",
+    Id: 799,
     Meaning: "Cough",
     Defination: "Syrup  a liquid medicine that you take for a cough ",
   },
   {
-    Id: "800",
+    Id: 800,
     Meaning: "Council",
     Defination:
       "a group of people who a re elected to govern an area such as a ci ty or a district, etc. ",
   },
+  { Id: 801, Meaning: "Councilor", Defination: "a member of a council " },
   {
-    Id: "801",
-    Meaning: "Councilor",
-    Defination: "a member of a council ",
-  },
-  {
-    Id: "802",
+    Id: 802,
     Meaning: "Counsellor",
     Defination:
       "someone who has supervisory duties/gives advice about problems // a lawyer who pleads cases in court  ",
   },
   {
-    Id: "803",
+    Id: 803,
     Meaning: "Counterfeit",
     Defination:
       "fake made to look exactly  like something in order to trick people into thinking that the y are getting the  real thing  ",
   },
   {
-    Id: "804",
+    Id: 804,
     Meaning: "Country",
     Defination:
       "an area of land that has or used to have its own government and laws ",
   },
   {
-    Id: "805",
+    Id: 805,
     Meaning: "Coup",
     Defination:
       "a sudden cha nge of government that is illegal and often violent  ",
   },
   {
-    Id: "806",
+    Id: 806,
     Meaning: "Couplet",
     Defination: "a stanza having two lines in verse ",
   },
   {
-    Id: "807",
+    Id: 807,
     Meaning: "Courier",
     Defination:
       "a person/ company whose job is to take pack ages/ important parcels some where ",
   },
+  { Id: 808, Meaning: "Covertly", Defination: "in a covert manner " },
   {
-    Id: "808",
-    Meaning: "Covertly",
-    Defination: "in a covert manner ",
-  },
-  {
-    Id: "809",
+    Id: 809,
     Meaning: "Covey",
     Defination: "a small collection of people ",
   },
   {
-    Id: "810",
+    Id: 810,
     Meaning: "Cowardice",
     Defination: "the trait of lacking courage ",
   },
   {
-    Id: "811",
+    Id: 811,
     Meaning: "Creasy",
     Defination: "a line made by pressing, folding, or wrinkling ",
   },
   {
-    Id: "812",
+    Id: 812,
     Meaning: "Creative",
     Defination:
       "having the skill and ability to produce something new, especially a work of art  ",
   },
   {
-    Id: "813",
+    Id: 813,
     Meaning: "Creator",
     Defination: "a person who has ma de/ invented a particular thing ",
   },
   {
-    Id: "814",
+    Id: 814,
     Meaning: "Credence",
     Defination:
       "the mental attitude t hat something is believable and should be accepted as true  ",
   },
   {
-    Id: "815",
+    Id: 815,
     Meaning: "Credential",
     Defination:
       "the qualities/ training/experience that make you suitable to do something  ",
   },
   {
-    Id: "816",
+    Id: 816,
     Meaning: "Credible",
     Defination: 'that can be believed or trusted j"',
   },
   {
-    Id: "817",
+    Id: 817,
     Meaning: "Creditable",
     Defination:
       "deserving public acknowledgement and praise but not necessarily outstanding or successful",
   },
   {
-    Id: "818",
+    Id: 818,
     Meaning: "Creditor",
     Defination: "a person to whom money is owed by another person ",
   },
   {
-    Id: "819",
+    Id: 819,
     Meaning: "Credulous",
     Defination: "ready to believe things and therefore easy to trick ",
   },
   {
-    Id: "820",
+    Id: 820,
     Meaning: "Creed",
     Defination: "a system of religious belief ",
   },
   {
-    Id: "821",
+    Id: 821,
     Meaning: "Crematorium",
     Defination: " a building in which the bodies of dead people are burned  ",
   },
   {
-    Id: "822",
+    Id: 822,
     Meaning: "Crescendo",
     Defination: "a gradual increase in loudness in a piece of music  ",
   },
   {
-    Id: "823",
+    Id: 823,
     Meaning: "Crew",
     Defination: "all the people working on a ship, plane, etc. ",
   },
+  { Id: 824, Meaning: "Criminal", Defination: "connected with crime " },
   {
-    Id: "824",
-    Meaning: "Criminal",
-    Defination: "connected with crime ",
-  },
-  {
-    Id: "825",
+    Id: 825,
     Meaning: "Crisis",
     Defination: "turning point of danger/disease ",
   },
+  { Id: 826, Meaning: "Crisp", Defination: "crunchy " },
   {
-    Id: "826",
-    Meaning: "Crisp",
-    Defination: "crunchy ",
-  },
-  {
-    Id: "827",
+    Id: 827,
     Meaning: "Criterion",
     Defination:
       "a standard/principle by which something is judged, or with the help of which a decision is made ",
   },
   {
-    Id: "828",
+    Id: 828,
     Meaning: "Critic",
     Defination:
       "a person who expresses disapproval of somebody/something and talks about his bad qualities, especially publicly ",
   },
   {
-    Id: "829",
+    Id: 829,
     Meaning: "Crocodile",
     Defination:
       "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates  ",
   },
   {
-    Id: "830",
+    Id: 830,
     Meaning: "Crowd",
     Defination:
       "a large number of people  gathered together in a public place in the streets at a sports ground, etc.  ",
   },
   {
-    Id: "831",
+    Id: 831,
     Meaning: "Crude",
     Defination:
       "simple and not very accurate but giving a general idea of something ",
   },
   {
-    Id: "832",
+    Id: 832,
     Meaning: "Crypto",
     Defination:
       "a person having a secret allegiance to a political cr eed , especially communism. ",
   },
   {
-    Id: "833",
+    Id: 833,
     Meaning: "Cryptograph",
     Defination: "a device for deciphering codes and ciphers ",
   },
   {
-    Id: "834",
+    Id: 834,
     Meaning: "Cull",
     Defination:
       "to kill a particular number of animals of a group in order to pr event the group from getting too large   ",
   },
   {
-    Id: "835",
+    Id: 835,
     Meaning: "Culpable",
     Defination:
       "responsible and deserving blame for having done something wrong ",
   },
   {
-    Id: "836",
+    Id: 836,
     Meaning: "Culprits",
     Defination: "a person who has done something wrong/against the law  ",
   },
   {
-    Id: "837",
+    Id: 837,
     Meaning: "Culture",
     Defination:
       "the customs and beliefs, art, way of life and social organisation of a particular country/g roup ",
   },
   {
-    Id: "838",
+    Id: 838,
     Meaning: "Curator",
     Defination:
       "a person whose job is to be in charge of the objects or words of art in a museum or art gallery, etc.",
   },
   {
-    Id: "839",
+    Id: 839,
     Meaning: "Curfew",
     Defination: "signal under martial law for people to remain indoors ",
   },
   {
-    Id: "840",
+    Id: 840,
     Meaning: "Curiosity",
     Defination: "a strong desire to know or learn something  ",
   },
   {
-    Id: "841",
+    Id: 841,
     Meaning: "Curmudgeon",
     Defination: "a bad-tempered person, often an old one Ù ",
   },
   {
-    Id: "842",
+    Id: 842,
     Meaning: "Currency",
     Defination: "general acceptance or use  ",
   },
   {
-    Id: "843",
+    Id: 843,
     Meaning: "Cursory",
     Defination: "going rapidly over something  ",
   },
+  { Id: 844, Meaning: "Curt", Defination: "brief and to the point þ " },
   {
-    Id: "844",
-    Meaning: "Curt",
-    Defination: "brief and to the point þ ",
-  },
-  {
-    Id: "845",
+    Id: 845,
     Meaning: "Customer",
     Defination:
       "a person/an organisation that buys something from a shop/ store or business  ",
   },
   {
-    Id: "846",
+    Id: 846,
     Meaning: "Cut",
     Defination: "to make an opening // to divide with a knife  ",
   },
   {
-    Id: "847",
+    Id: 847,
     Meaning: "Cyclone",
     Defination:
       "a violent tropical storm in which strong winds move in a circle   ",
   },
   {
-    Id: "848",
+    Id: 848,
     Meaning: "Cyclostyle",
     Defination:
       "print with a cyclostyle a writing implement with a small toot hed wheel that cuts small holes in a stencil ",
   },
   {
-    Id: "849",
+    Id: 849,
     Meaning: "Cynic",
     Defination: "someone who is critical of the motives of others ",
   },
   {
-    Id: "850",
+    Id: 850,
     Meaning: "Cynicism",
     Defination: "a cynical feeling of distrust ",
   },
+  { Id: 851, Meaning: "Cynophobia", Defination: "extreme fear of dogs" },
+  { Id: 852, Meaning: "Cynosure", Defination: "centre of attraction " },
+  { Id: 853, Meaning: "Cytology", Defination: "dealing with cells  " },
   {
-    Id: "851",
-    Meaning: "Cynophobia",
-    Defination: "extreme fear of dogs",
-  },
-  {
-    Id: "852",
-    Meaning: "Cynosure",
-    Defination: "centre of attraction ",
-  },
-  {
-    Id: "853",
-    Meaning: "Cytology",
-    Defination: "dealing with cells  ",
-  },
-  {
-    Id: "854",
+    Id: 854,
     Meaning: "Dabbler",
     Defination:
       "an amateur who engages in an activity without serious intentions and who pretends to have knowledge  ",
   },
   {
-    Id: "855",
+    Id: 855,
     Meaning: "Dacoit",
     Defination: "a member of an armed ga ng of robbers ",
   },
   {
-    Id: "856",
+    Id: 856,
     Meaning: "Dactylogy",
     Defination:
       "the science of communicating by sign language using the hands and fingers.  ",
   },
   {
-    Id: "857",
+    Id: 857,
     Meaning: "Daft",
     Defination: "informal or slang terms for mentally irregular",
   },
   {
-    Id: "858",
+    Id: 858,
     Meaning: "Dam",
     Defination:
       "a barrier that is built across a river in order to stop the water from flowing",
   },
+  { Id: 859, Meaning: "Damsel", Defination: "a young unmarried  woman " },
   {
-    Id: "859",
-    Meaning: "Damsel",
-    Defination: "a young unmarried  woman ",
-  },
-  {
-    Id: "860",
+    Id: 860,
     Meaning: "Dandy",
     Defination: "a man unduly concerned with looking stylish and fashionable  ",
   },
   {
-    Id: "861",
+    Id: 861,
     Meaning: "Dangerous",
     Defination:
       "likely to injure or harm somebody // likely to damage or destroy something ",
   },
+  { Id: 862, Meaning: "Daring", Defination: "brave  " },
+  { Id: 863, Meaning: "Dark", Defination: "with no or little light  " },
   {
-    Id: "862",
-    Meaning: "Daring",
-    Defination: "brave  ",
-  },
-  {
-    Id: "863",
-    Meaning: "Dark",
-    Defination: "with no or little light  ",
-  },
-  {
-    Id: "864",
+    Id: 864,
     Meaning: "Data",
     Defination:
       "facts/information, especially when examined and used for finding out things/ for making decisions  ",
   },
   {
-    Id: "865",
+    Id: 865,
     Meaning: "Daughter",
     Defination: "a female human offspring  ",
   },
   {
-    Id: "866",
+    Id: 866,
     Meaning: "Dawdle",
     Defination: "to take a long time to do something/go somewhere  ",
   },
+  { Id: 867, Meaning: "Dazzling", Defination: "amazingly impressive  " },
   {
-    Id: "867",
-    Meaning: "Dazzling",
-    Defination: "amazingly impressive  ",
-  },
-  {
-    Id: "868",
+    Id: 868,
     Meaning: "Deacon",
     Defination: "a cleric ranking just below a priest in churches  ",
   },
   {
-    Id: "869",
+    Id: 869,
     Meaning: "Deadly",
     Defination: "causing or likely to cause death  ",
   },
   {
-    Id: "870",
+    Id: 870,
     Meaning: "Deaf",
     Defination:
       "lacking or deprive of the sense of hearing wholly or in part  ",
   },
+  { Id: 871, Meaning: "Deal", Defination: "an agreement  " },
   {
-    Id: "871",
-    Meaning: "Deal",
-    Defination: "an agreement  ",
-  },
-  {
-    Id: "872",
+    Id: 872,
     Meaning: "Dean",
     Defination:
       "an administrator in cha rge of a division of a university/college  ",
   },
   {
-    Id: "873",
+    Id: 873,
     Meaning: "Debacle",
     Defination:
       "an event/a situation that is a complete failure and causes em barrassment // a breakup overthrow  sudden disaster ",
   },
   {
-    Id: "874",
+    Id: 874,
     Meaning: "Debasement",
     Defination:
       "the fact of making something/ somebody less valuable/ respected",
   },
   {
-    Id: "875",
+    Id: 875,
     Meaning: "Debatable",
     Defination: "capable of being disproved",
   },
   {
-    Id: "876",
+    Id: 876,
     Meaning: "Debate",
     Defination:
       "a formal discussion of an issue expressing different opinions ",
   },
   {
-    Id: "877",
+    Id: 877,
     Meaning: "Debauch",
     Defination:
       "a wild gathering involving excessive drinking and promiscuity  ",
   },
   {
-    Id: "878",
+    Id: 878,
     Meaning: "Debauchery",
     Defination: "immoral behaviour involving sex, alcohol or drugs ",
   },
   {
-    Id: "879",
+    Id: 879,
     Meaning: "Debonair",
     Defination: "f ashionable and co nf ident ( of  men) ",
   },
   {
-    Id: "880",
+    Id: 880,
     Meaning: "Debut",
     Defination: "the first public appearance of a performer/ sports player  ",
   },
   {
-    Id: "881",
+    Id: 881,
     Meaning: "Decadent",
     Defination: "marked by excessive self ",
   },
+  { Id: 882, Meaning: "Deceit", Defination: "the act o f deceiving " },
   {
-    Id: "882",
-    Meaning: "Deceit",
-    Defination: "the act o f deceiving ",
-  },
-  {
-    Id: "883",
+    Id: 883,
     Meaning: "Deceive",
     Defination: "to cheat/fool/ trick/mislead ",
   },
   {
-    Id: "884",
+    Id: 884,
     Meaning: "Decipher",
     Defination:
       "to succeed in finding the meaning of something of that is difficult to read/ understand ",
   },
   {
-    Id: "885",
+    Id: 885,
     Meaning: "Declaratory",
     Defination: "relating to the use of or having the nature of a declaration ",
   },
   {
-    Id: "886",
+    Id: 886,
     Meaning: "Declare",
     Defination:
       "to say something officially/ publicly // to state firmly and clearly ",
   },
   {
-    Id: "887",
+    Id: 887,
     Meaning: "Decrepit",
     Defination: "lacking bodily/ muscular strength/vitality ",
   },
   {
-    Id: "888",
+    Id: 888,
     Meaning: "Defalcation",
     Defination: "the sum of money that is misappropriated ",
   },
   {
-    Id: "889",
+    Id: 889,
     Meaning: "Defamation",
     Defination:
       "the act of damaging somebody™s reputation by say ing/writing bad/false thing s about him orchestration  ",
   },
   {
-    Id: "890",
+    Id: 890,
     Meaning: "Defame",
     Defination:
       "to harm somebody by saying/ writing bad/ false things about him",
   },
   {
-    Id: "891",
+    Id: 891,
     Meaning: "Defeatist",
     Defination:
       "a person expecting not to succeed, and showing it in a particular situation",
   },
   {
-    Id: "892",
+    Id: 892,
     Meaning: "Defection",
     Defination:
       "withdrawing support or help despite continued support for a political party, religion, ruler, etc.",
   },
+  { Id: 893, Meaning: "Definite", Defination: "known for certain" },
   {
-    Id: "893",
-    Meaning: "Definite",
-    Defination: "known for certain",
-  },
-  {
-    Id: "894",
+    Id: 894,
     Meaning: "Deist",
     Defination:
       "a person who believes in god, especially god that created the universe but does not part in it  ",
   },
+  { Id: 895, Meaning: "Delectable", Defination: "greatly pleasing" },
   {
-    Id: "895",
-    Meaning: "Delectable",
-    Defination: "greatly pleasing  ",
-  },
-  {
-    Id: "896",
+    Id: 896,
     Meaning: "Delegate",
     Defination:
       "to give part of your work, power or authority to somebody in a lower position than you ",
   },
   {
-    Id: "897",
+    Id: 897,
     Meaning: "Delete",
     Defination:
       "to remove something that  has been written/printed/ stored  on a computer  ",
   },
   {
-    Id: "898",
+    Id: 898,
     Meaning: "Deliberate",
     Defination:
       "carefully thought out in advance // unhurried and with care and dignity",
   },
   {
-    Id: "899",
+    Id: 899,
     Meaning: "Deliberation",
     Defination: "slow and careful movement or thought",
   },
-  {
-    Id: "900",
-    Meaning: "Delible",
-    Defination: "capable of being deleted",
-  },
+  { Id: 900, Meaning: "Delible", Defination: "capable of being deleted" },
 ];
 
 export default wordsData;
